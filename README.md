@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel-braga-ol
-- 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m a beginner at programming
+- 🌱 I’m currently learning Python
 
 
 <!---
